@@ -1,4 +1,4 @@
-# Weak Session IDs
+# XSS DOM
 
 ## Descripción del reto
 
