@@ -1,4 +1,4 @@
-# Fuerza Bruta
+# Command Injection
 
 ## Descripción del reto
 
